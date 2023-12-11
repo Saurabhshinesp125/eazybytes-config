@@ -1,5 +1,6 @@
-build:
-  version: "2.0"
+info:
+  build:
+    location: "2.0"
 
 cards:
   message: "Welcome to EazyBank cards related QA APIs "
