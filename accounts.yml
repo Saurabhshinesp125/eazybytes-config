@@ -1,5 +1,6 @@
-build:
-  version: "3.0"
+info:
+  build:
+    location: "3.1"
 
 accounts:
   message: "Welcome to EazyBank accounts related local APIs "
