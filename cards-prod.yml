@@ -3,7 +3,7 @@ info:
     location: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related Prod APIs "
+  message: "Welcome to EazyBank cards related Webhooks APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
